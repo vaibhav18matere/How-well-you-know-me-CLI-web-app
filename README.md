@@ -1,4 +1,4 @@
-# Mark 1 of neog.camp
+# CLI - Quiz 1
 
 Dependencies :
 1. readline-sync
