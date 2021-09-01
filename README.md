@@ -1,1 +1,3 @@
-Mark 1 - neog.camp
+Dependencies :
+
+1. readline-sync
