@@ -6,4 +6,3 @@ Title : How well you know me
 Dependencies used:
 1. readline-sync
 
-# Play https://replit.com/@Vaibhav18Matere/endgame-6?embed=1&output=1#index.js
